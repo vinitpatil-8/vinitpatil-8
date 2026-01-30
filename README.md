@@ -22,8 +22,8 @@
 - **📫 How to reach me:** 
   - <a href="https://www.instagram.com/vinitpatil_8/">@vinitpatil_8</a> 
 
-- 🔭 I’m currently working on **A Multi-Purpose Discord Bot named HEXAR**
-- 🌱 I’m currently learning **HTML, CSS and PHP (Front-end Development)**
+- 🔭 I’m currently working on **DotSolve AI**
+- 🌱 I’m currently learning **Machine Learning**
 - ⚡ **About me:** 
   - Name: Vinit Patil
   - Age: 18 (20/04/2007)
