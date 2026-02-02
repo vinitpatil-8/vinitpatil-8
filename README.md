@@ -1,26 +1,13 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vinit!
 
-<div align="center">
-
-
-<a href="https://www.instagram.com/vinitpatil_8/">
-  <img align="middle" width="40px" src="https://img.icons8.com/cotton/64/000000/instagram-new.png"/>
-</a>
-<a href="https://github.com/vinitpatil-8">
-  <img align="middle" width="40px" src="https://img.icons8.com/material-rounded/24/000000/github.png"/>
-</a>
-</br>
-<br>
-
-![](https://komarev.com/ghpvc/?username=TheKaushikGoswami&style=for-the-badge)
-
-</center>
 </div>
 
 <br />
 
 - **📫 How to reach me:** 
-  - <a href="https://www.instagram.com/vinitpatil_8/">@vinitpatil_8</a> 
+  - <a href="https://www.instagram.com/vinitpatil_8/">@vinitpatil_8</a>
+- My Open Source Contributions:
+  - 📄 [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
 
 - 🔭 I’m currently working on **DotSolve AI**
 - 🌱 I’m currently learning **Machine Learning**
