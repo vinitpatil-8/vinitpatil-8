@@ -4,10 +4,10 @@ This document lists my contributions to open-source projects.
 
 ### 1. Decoder-Bot
 **Repository**
-[https://github.com/UnknownDecoder/decoder-bot](https://github.com/UnknownDecoder/decoder-bot)
+[https://github.com/UnknownDecoder/decoder-bot](https://github.com/UnknownDecoder/decoder-bot)   
 **Pull Request**
-[https://github.com/UnknownDecoder/decoder-bot/pull/1](https://github.com/UnknownDecoder/decoder-bot/pull/1)
-**Status** Merged ✅
+[https://github.com/UnknownDecoder/decoder-bot/pull/1](https://github.com/UnknownDecoder/decoder-bot/pull/1)   
+**Status** Merged ✅   
 
 **Description:**
 - Randomized All Responses** By Using A List Instead Of String
@@ -18,10 +18,10 @@ This document lists my contributions to open-source projects.
 
 ### 2. kana-dojo
 **Repository**
-[https://github.com/UnknownDecoder/decoder-bot](https://github.com/lingdojo/kana-dojo)
+[https://github.com/UnknownDecoder/decoder-bot](https://github.com/lingdojo/kana-dojo)   
 **Pull Request**
-[https://github.com/UnknownDecoder/decoder-bot/pull/1](https://github.com/lingdojo/kana-dojo/pull/3309)
-**Status** Merged ✅
+[https://github.com/UnknownDecoder/decoder-bot/pull/1](https://github.com/lingdojo/kana-dojo/pull/3309)   
+**Status** Merged ✅   
 
 **Description:**
 - Added Famous Anime Quote 10
