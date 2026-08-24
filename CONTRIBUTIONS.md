@@ -29,9 +29,9 @@ This document lists my contributions to open-source projects.
 
 ### 3. Corsair
 **Repository**
-[https://github.com/corsairdev/corsair](https://github.com/corsairdev/corsair)
+[https://github.com/corsairdev/corsair](https://github.com/corsairdev/corsair)<br>
 **Pull Request**
-[https://github.com/corsairdev/corsair/pull/945](https://github.com/corsairdev/corsair/pull/945)
+[https://github.com/corsairdev/corsair/pull/945](https://github.com/corsairdev/corsair/pull/945)<br>
 **Status** Merged ✅
 
 **Description**
