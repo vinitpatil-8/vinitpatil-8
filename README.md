@@ -1,18 +1,13 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vinit !
-
-
 <div>
-
 <br />
-
-
-
+  
 # 💫 About Me :
 🔭 I’m currently working on **DotSolve AI**<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning AI/ML
 
 
 ### **📫 How to reach me:** <br />
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinitpatil_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinit-patil-085205384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinit.2007.20@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinitpatil_8) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinit-patil-085205384) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinit.2007.20@gmail.com) [![DotSolve](https://img.shields.io/badge/DotSolve-F1D624)](https://dotsolve.vercel.app/)
 
 ## **My Open Source Contributions:**
   - 📄 [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
