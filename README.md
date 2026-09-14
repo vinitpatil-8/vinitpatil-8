@@ -3,7 +3,7 @@
 <br />
   
 # 💫 About Me :
-🔭 I’m currently working on **DotSolve AI**<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning AI/ML
+🔭 I’m currently working on **Loom**<br>👯 I’m looking to collaborate on Open-Source Projects<br>🌱 I’m currently learning AI/ML
 
 
 ### **📫 How to reach me:** <br />
