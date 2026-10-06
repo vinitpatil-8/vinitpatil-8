@@ -18,7 +18,7 @@
 <div align="center">
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vinitpatil-8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![My Skyline](https://raw.githubusercontent.com/vinitpatil-8/vinitpatil-8/output/skyline.svg)<br/>
 
 
 <br />
