@@ -17,7 +17,6 @@
 
 <div align="center">
 
-# 📊 GitHub Stats:
 ![My Skyline](https://raw.githubusercontent.com/vinitpatil-8/vinitpatil-8/output/skyline.svg)<br/>
 
 
